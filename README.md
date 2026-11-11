@@ -1,6 +1,7 @@
 # edu10-restapp-pro
 
-*Ch-26. Spring CSR (Client-Side Rendering) - RESTful Web Services*
+> **Note:** This is an educational project from the Coding Factory course (AUEB). 
+> *Ch-26. Spring CSR (Client-Side Rendering) - RESTful Web Services*.
 
 A REST API for managing a registry of teachers, built with Spring Boot. It provides JWT-based authentication and capability-based authorization, teacher CRUD with soft deletes, filtered/paginated search, and AMKA document upload.
 
